@@ -122,6 +122,7 @@
 }
 
 .description {
+    text-align: justify;
     max-width: 75%;
     margin-bottom: 10px;
 }
@@ -207,6 +208,7 @@
     }
 
     #bio-container p{
+        text-align: justify;
         max-width: 60%;
         margin: 10px auto;
     }
