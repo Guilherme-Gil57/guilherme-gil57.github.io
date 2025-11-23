@@ -51,6 +51,7 @@
 }
 
 #bio-container p{
+    text-align: justify;
     margin-bottom: 20px;
 }
 
