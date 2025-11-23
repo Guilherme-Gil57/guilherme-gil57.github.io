@@ -51,7 +51,6 @@
 }
 
 #bio-container p{
-    text-align: justify;
     margin-bottom: 20px;
 }
 
@@ -194,7 +193,7 @@
 /* Mobile */
 @media(max-width: 450px) {
     
-    #container {
+    #containers {
         flex-direction: column;
     }
 
